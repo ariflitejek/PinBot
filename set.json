@@ -1,0 +1,7 @@
+{
+  "TOKEN": "TOKEN",
+  "YOUTUBE_API_KEY": "YTAPI",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "p",
+  "PRUNING": false
+}

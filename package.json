@@ -1,0 +1,29 @@
+{
+  "name": "pinbot",
+  "version": "12.4.0",
+  "description": "Official bot with javascript code and some useful features available for your discord server.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariflitejek/PinBot.git"
+  },
+  "author": "ariflitejek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariflitejek/PinBot/issues"
+  },
+  "homepage": "https://github.com/ariflitejek/PinBot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.4.0",
+    "ffmpeg-static": "^4.2.7",
+    "lyrics-finder": "^21.4.0",
+    "simple-youtube-api": "^5.2.1",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^3.4.1",
+    "ytdl-core-discord": "^1.2.3"
+  }
+}
