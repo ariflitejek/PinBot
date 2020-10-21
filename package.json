@@ -3,8 +3,11 @@
   "version": "12.4.0",
   "description": "Official bot with javascript code and some useful features available for your discord server.",
   "main": "src/main.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "scripts": {
-    "start": "node main.js"
+    "start": "node src/main.js"
   },
   "repository": {
     "type": "git",
